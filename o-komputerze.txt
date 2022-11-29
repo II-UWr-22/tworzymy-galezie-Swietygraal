@@ -1,0 +1,51 @@
+Linux agnieszka-VirtualBox 5.15.0-53-generic #59-Ubuntu SMP Mon Oct 17 18:53:30 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        4018452 kB
+MemFree:         2049292 kB
+MemAvailable:    2997092 kB
+Buffers:           52072 kB
+Cached:          1111396 kB
+SwapCached:            0 kB
+Active:           358000 kB
+Inactive:        1381052 kB
+Active(anon):       1856 kB
+Inactive(anon):   615236 kB
+Active(file):     356144 kB
+Inactive(file):   765816 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       3991548 kB
+SwapFree:        3991548 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        575636 kB
+Mapped:           308408 kB
+Shmem:             41508 kB
+KReclaimable:      56772 kB
+Slab:             117876 kB
+SReclaimable:      56772 kB
+SUnreclaim:        61104 kB
+KernelStack:        6976 kB
+PageTables:        15076 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6000772 kB
+Committed_AS:    3652656 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       39204 kB
+VmallocChunk:          0 kB
+Percpu:              960 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      184256 kB
+DirectMap2M:     4009984 kB
